@@ -36,6 +36,7 @@
     "globals": {
         "__dirname": true,
         "describe": true,
+        "before": true,
         "it": true
     }
 }
