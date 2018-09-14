@@ -1,0 +1,23 @@
+{
+  "name": "react-form-composer",
+  "version": "1.0.0",
+  "description": "Allows one to compose forms using a JSON based config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakshay/react-form-composer.git"
+  },
+  "keywords": [
+    "react",
+    "form"
+  ],
+  "author": "Akshay Valiya Rakkachath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rakshay/react-form-composer/issues"
+  },
+  "homepage": "https://github.com/Rakshay/react-form-composer#readme"
+}
